@@ -1,4 +1,4 @@
-# Linux Assessments & DevOps Labs
+# Linux Practice Labs
 
 A clean, beginner-friendly repository to track my Linux assessments, shell scripts, and DevOps mini-projects.
 
