@@ -1,6 +1,6 @@
 # Linux Practice Labs
 
-A clean, beginner-friendly repository to track my Linux assessments, shell scripts, and DevOps mini-projects.
+A clean, beginner-friendly repository to track my Linux assessments, shell scripts, and other related mini-projects.
 
 > **Owner:** @Sourabh9692  
 > **Created:** 2025-09-22
