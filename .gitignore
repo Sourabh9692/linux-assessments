@@ -1,0 +1,19 @@
+# Editors / OS junk
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+tmp/
+*.tmp
+
+# Node (in case future labs use it)
+node_modules/
+
+# Python (if future labs)
+__pycache__/
+*.pyc
+.venv/
