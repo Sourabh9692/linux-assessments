@@ -1,0 +1,17 @@
+Nov  7 10:00:01 ubuntu sshd[12345]: Failed password for invalid user admin from 1.2.3.4 port 51234 ssh2
+Nov  7 10:00:02 ubuntu sshd[12346]: Failed password for invalid user test from 1.2.3.4 port 51235 ssh2
+Nov  7 10:00:03 ubuntu sshd[12347]: Invalid user guest from 5.6.7.8 port 51236
+Nov  7 10:00:04 ubuntu sshd[12348]: Failed password for root from 9.10.11.12 port 51237 ssh2
+Nov  7 10:00:05 ubuntu sshd[12349]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=13.14.15.16
+Nov  7 10:01:01 ubuntu sshd[20001]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:02 ubuntu sshd[20002]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:03 ubuntu sshd[20003]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:04 ubuntu sshd[20004]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:05 ubuntu sshd[20005]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:06 ubuntu sshd[20006]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:07 ubuntu sshd[20007]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:08 ubuntu sshd[20008]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:09 ubuntu sshd[20009]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:10 ubuntu sshd[20010]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:11 ubuntu sshd[20011]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
+Nov  7 10:01:12 ubuntu sshd[20012]: Failed password for invalid user bot from 1.2.3.4 port 52000 ssh2
